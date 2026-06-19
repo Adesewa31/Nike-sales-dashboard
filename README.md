@@ -54,8 +54,10 @@ The dataset used for this project contains retail sales data with the following 
 * **Units Sold** – Quantity of products sold
 * **Month** – Time-based sales tracking
 
-📁 File included:
-`nike-sales-data.xlsx`
+📁 Dataset
+The dataset used for this project is included in this repository as an Excel file.
+
+ nike-sales-data.xlsx
 
 
 
