@@ -57,7 +57,7 @@ The dataset used for this project contains retail sales data with the following 
 📁 Dataset
 The dataset used for this project is included in this repository as an Excel file.
 
- nike-sales-data.xlsx
+- NIKE-sales-data.xlsx
 
 
 
