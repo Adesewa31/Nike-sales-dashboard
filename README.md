@@ -1,8 +1,17 @@
-📊 Nike Retail Sales Performance Dashboard
+# 📊 Nike Retail Sales Performance Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents an end-to-end **data analytics and visualization solution** using Power BI to analyze Nike’s retail sales performance.
+
+## 📁 Project Structure
+
+nike-sales-dashboard/
+│
+├── nike-sales-dashboard.pbix        # Power BI dashboard file
+├── nike-sales-dashboard.png         # Dashboard screenshot
+├── nike-sales-data.xlsx             # Raw dataset
+├── README.md                        # Project documentation
 
 The dashboard provides a comprehensive view of sales across **regions, product categories, retailers, and time**, enabling stakeholders to quickly identify trends, performance drivers, and growth opportunities.
 
@@ -10,13 +19,13 @@ The objective of this project is to demonstrate how raw retail data can be trans
 
 
 
- 🖼️ Dashboard Preview
+ ## 🖼️ Dashboard Preview
 
 ![Dashboard](nike-sales-dashboard.png)
 
 
 
-🧩 Business Context
+## 🧩 Business Context
 
 Retail organizations like Nike operate across multiple regions and product lines, making it difficult to manually track performance and identify key trends.
 
@@ -31,7 +40,7 @@ This dashboard solves these challenges by providing a **single, interactive plat
 
 
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 The primary goals of this project were to:
 
@@ -43,7 +52,7 @@ The primary goals of this project were to:
 
 
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset used for this project contains retail sales data with the following key fields:
 
@@ -54,14 +63,14 @@ The dataset used for this project contains retail sales data with the following 
 * **Units Sold** – Quantity of products sold
 * **Month** – Time-based sales tracking
 
-📁 Dataset
+## 📁 Dataset
 The dataset used for this project is included in this repository as an Excel file.
 
 - NIKE-sales-data.xlsx
 
 
 
-🛠️ Data Preparation & Transformation
+## 🛠️ Data Preparation & Transformation
 
 Before visualization, the dataset underwent several preprocessing steps:
 
@@ -78,7 +87,7 @@ Key measures created:
 
 
 
- 📊 Dashboard Features
+## 📊 Dashboard Features
 
 🔹 KPI Summary Cards
 
@@ -127,7 +136,7 @@ These allow users to dynamically explore the data and customize insights.
 
 
 
-📈 Key Insights
+## 📈 Key Insights
 
 * 🥇 The **West region** generated the highest revenue (~₦0.28bn), making it the most profitable market
 * 👟 **Men’s athletic footwear** is the top-performing product category, indicating strong demand
@@ -136,7 +145,7 @@ These allow users to dynamically explore the data and customize insights.
 
 
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
@@ -147,7 +156,7 @@ Based on the analysis, the following actions are recommended:
 
 
 
- 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Power BI** – Data visualization and dashboard development
 * **Microsoft Excel** – Data storage and preprocessing
@@ -156,7 +165,7 @@ Based on the analysis, the following actions are recommended:
 
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 * Incorporate **profit and cost analysis**
 * Add **customer segmentation insights**
